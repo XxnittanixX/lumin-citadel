@@ -1,16 +1,16 @@
-title: 🚀 Yai 💬
+title: 🚀 lumin citadel 💬
 title_separator: "|"
 email: ekkinox@gmail.com
 repository: "ekkinox/yai"
 description: >-
-  Yai (your AI) is an artificial intelligence powered terminal assistant. 
+  lumin citadel (your AI) is an artificial intelligence powered terminal assistant. 
   Use it to prepare and execute any command lines from requests expressed in your natural language. 
   You can also engage in conversation with it about any topics you may think about.
   Unleash the power of AI with the comfort of staying at /home !
-twitter_username: noxekki
-github_username: ekkinox
+twitter_username: nittani
+github_username: nittani
 minimal_mistakes_skin: dark
-search: false
+search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
@@ -26,16 +26,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jonathan Vuillemin"
+  name   : "Jonathan Vuillemin. artem brenner"
   avatar : "https://avatars.githubusercontent.com/u/6922385?s=400&u=87b8f6b9674c3667b1a75e294387c7af3e335b69&v=4"
   bio    : "Backend and other things."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/noxekki"
+      url: "https://twitter.com/lumin-citadel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ekkinox"
+      url: "https://github.com/lumin-citadel"
 
 footer:
   links:
